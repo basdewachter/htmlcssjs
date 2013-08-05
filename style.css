@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    font-family: helvetica;
+}
+
+body {
+    background-color: rgb(244, 210, 221);    
+}
+
+.heading {
+    font-size: 2em;
+}
+
+.intro {
+    font-size: 1.5em;
+    color: blue;
+}
